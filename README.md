@@ -4,7 +4,7 @@
 - 🔭 Founder Of Dark Codes: Discord Code Sharing Server!
 - 🥅 2020 Goals: Contribute More To Open-Source Projects
 - 🌱 2020 Goals: Posting More Videos To My Yt Channel...
-
+![Discord](https://discord.c99.nl/widget/theme-3/730431456006111323.png)
 
 ### All Languages In The Coding Universe
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
