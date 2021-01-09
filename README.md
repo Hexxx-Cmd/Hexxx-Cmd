@@ -1,7 +1,7 @@
 [![banner](https://media.discordapp.net/attachments/732233138494898227/781454534357680138/gahSgAAUoQAEKUIACFKAABShAAWMJMATQ2B4tWzTHFx9PQYvmzTRgqtRgAIUoAAFKEABClCAAhSgAAWMJcAQQGN7dIyJxpTsTPg0.png?width=922&height=308)](https://hexxx.ml)
 ## I'm Hexxx🌙 A Fellow Discord Developer
 
-- 🔭 Founder Of Space Codes: Discord Code Sharing Server
+- 🔭 Founder Of Dark Codes: Discord Code Sharing Server!
 - 🥅 2020 Goals: Contribute More To Open-Source Projects
 - 🌱 2020 Goals: Posting More Videos To My Yt Channel...
 
