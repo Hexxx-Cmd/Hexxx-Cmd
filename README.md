@@ -31,8 +31,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NEW ANTI RAID BOT | WORKING 100% | Step-by-Step Guide](https://www.youtube.com/watch?v=ltMfgPoZp7E&t=12s)
+- [Giveaway Bot Codes + Role Requirements | High Quality JS](https://www.youtube.com/watch?v=H-xvcrr0SEA&t=40s)
 - [ANTI SWEAR BOT - MODERATE YOUR DISCORD SERVER](https://www.youtube.com/watch?v=0ekZR5qg_-A)
+- [NEW ANTI RAID BOT | WORKING 100% | Step-by-Step Guide](https://www.youtube.com/watch?v=ltMfgPoZp7E&t=12s)
 <!-- YOUTUBE:END -->
 </details>
 
