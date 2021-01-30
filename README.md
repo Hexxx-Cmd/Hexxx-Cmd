@@ -5,7 +5,7 @@
 - 🥅 2020 Goals: Contribute More To Open-Source Projects
 - 🌱 2020 Goals: Posting More Videos To My Yt Channel...
 
-![Discord](https://discord.c99.nl/widget/theme-1/730431456006111323.png) 
+![Discord](https://discord.c99.nl/widget/theme-1/798496975041462272.png) 
 
 
 ### All Languages In The Coding Universe
