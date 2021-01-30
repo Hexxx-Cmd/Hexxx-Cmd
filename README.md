@@ -6,8 +6,6 @@
 - 🌱 2020 Goals: Posting More Videos To My Yt Channel...
 
 ![Discord](https://discord.c99.nl/widget/theme-1/730431456006111323.png) 
-<a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/TvNTDzDXg9"/></a>
-<br><br>
 
 
 ### All Languages In The Coding Universe
@@ -38,6 +36,9 @@
 - [ANTI SWEAR BOT - MODERATE YOUR DISCORD SERVER](https://www.youtube.com/watch?v=0ekZR5qg_-A)
 - [NEW ANTI RAID BOT | WORKING 100% | Step-by-Step Guide](https://www.youtube.com/watch?v=ltMfgPoZp7E&t=12s)
 <!-- YOUTUBE:END -->
+<a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/TvNTDzDXg9"/></a>
+<br><br>
+
 </details>
 
 [website]: https://codeSTACKr.com
