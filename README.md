@@ -36,6 +36,8 @@
 - [ANTI SWEAR BOT - MODERATE YOUR DISCORD SERVER](https://www.youtube.com/watch?v=0ekZR5qg_-A)
 - [NEW ANTI RAID BOT | WORKING 100% | Step-by-Step Guide](https://www.youtube.com/watch?v=ltMfgPoZp7E&t=12s)
 <!-- YOUTUBE:END -->
+## 📝 Discord Server
+
 <a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/devs"/></a>
 <br><br>
 </div>
