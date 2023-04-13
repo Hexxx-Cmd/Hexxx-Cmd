@@ -37,7 +37,7 @@
 - [NEW ANTI RAID BOT | WORKING 100% | Step-by-Step Guide](https://www.youtube.com/watch?v=ltMfgPoZp7E&t=12s)
 <!-- YOUTUBE:END -->
 ## 📝 Discord Server
-- Currently dont own any servers\n
+- Currently dont own any servers
 <a href="https://discord.gg/"><img src="https://invidget.switchblade.xyz/"/></a>
 <br><br>
 </div>
