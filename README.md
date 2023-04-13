@@ -5,7 +5,7 @@
 - 🥅 2020 Goals: Contribute More To Open-Source Projects
 - 🌱 2020 Goals: Posting More Videos To My Yt Channel...
 
-![Discord](https://discord.c99.nl/widget/theme-1/730431456006111323.png) 
+![Discord](https://discord.c99.nl/widget/theme-1/987232181145440296.png) 
 
 
 ### All Languages In The Coding Universe
@@ -37,8 +37,8 @@
 - [NEW ANTI RAID BOT | WORKING 100% | Step-by-Step Guide](https://www.youtube.com/watch?v=ltMfgPoZp7E&t=12s)
 <!-- YOUTUBE:END -->
 ## 📝 Discord Server
-
-<a href="https://discord.gg/devs"><img src="https://invidget.switchblade.xyz/devs"/></a>
+- Currently dont own any servers
+<a href="https://discord.gg/"><img src="https://invidget.switchblade.xyz/devs"/></a>
 <br><br>
 </div>
 
